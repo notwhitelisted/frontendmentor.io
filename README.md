@@ -1,0 +1,1 @@
+utilized frontendmentor.io to challenge myself to recreate designs using css, html, and javascript. with this, i am hoping to strengthen my current skillset and explore my interests in web development.
